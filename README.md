@@ -1,6 +1,8 @@
 # construction-budget
 Short program to calculate a basic construction budget.
 
+![Budget](./execucao.png)
+
 ## Exercise:
 ### Crie um programa no [portugol studio](https://portugol-webstudio.dgadelha.xyz/ide) responsável por auxiliar um engenheiro nas contas de uma obra. Ele deve seguir as seguintes instruções:
 * Perguntar para o usuário seu nome. Leia o nome digitado e personalize as próximas mensagens com o nome digitado.
